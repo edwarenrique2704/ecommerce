@@ -1,0 +1,50 @@
+# Ignorar archivos de dependencias
+node_modules/
+
+# Ignorar archivos de configuración específicos
+.env
+
+# Ignorar archivos de registro
+logs/
+
+# Ignorar archivos de construcción
+dist/
+
+# Ignorar archivos de respaldos
+*.bak
+
+# Ignorar archivos de registro generados por el sistema
+*.log
+
+# Ignorar archivos de caché
+.cache/
+
+# Ignorar archivos de editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Ignorar archivos de base de datos
+
+
+# Ignorar archivos de pruebas
+coverage/
+*.swp
+
+# Ignorar archivos de generación de documentación
+doc/
+docs/
+*.pdf
+
+# Ignorar archivos de ambiente específicos
+# Por ejemplo, si estás usando Docker
+docker-compose.yml
