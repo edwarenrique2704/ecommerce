@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Ecommerce
 
 ## Descripción
 
@@ -19,13 +19,27 @@ Este es un proyecto de eCommerce desarrollado con el stack MERN (MongoDB, Expres
 - **Base de Datos:** MongoDB
 - **Autenticación:** JWT (JSON Web Token)
 
+## Capturas de Pantalla
+
+### Página de Inicio
+
+![Página de Inicio](./front/src/images/ecomerce1.png)
+
+### Login
+
+![Página de Producto](./front/src/images/ecomerce2.png)
+
+### Carrito de Compras
+
+![Carrito de Compras](./front/src/images/ecomerce3.png)
+
 ## Instalación
 
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/edwarenrique2704/ecommerce.git
+
 
 Configurar el frontend
 Navega a la carpeta del frontend:
